@@ -6,15 +6,19 @@
 
 Heroic Elite is a novel-writing and book-design studio for Windows. Draft your manuscript, organise it into chapters, design a print-ready interior and export finished files, all on your own computer.
 
-**$75, a one-time purchase. No subscription and no account.** Your receipt includes a license key: enter it once, the first time you start Heroic Elite, and it is yours on that PC.
+**$75, a one-time purchase. No subscription and no account.** Your receipt includes a license key: open Heroic, click **Upgrade** in the top bar, choose **I have a key**, paste it and click **Activate**. It is yours on that PC.
 
 ### [👉 Buy Heroic Elite on Gumroad — $75](https://jermane8.gumroad.com/l/heroic-elite)
 
-Not sure yet? [Try the free Heroic demo](https://mailchi.mp/06ac7d725c16/heroic-demo-version-landing-page) first.
+Not sure yet? **[Try Heroic Elite free for 14 days](https://jermane8.gumroad.com/l/heroic-elite-trial)**: the full app, no account and no card. Your projects carry over when you upgrade.
 
 > This repository is the public home page for Heroic Elite: screenshots, release notes and where to buy. Heroic Elite is commercial software; its source code is not published here.
 
 ---
+
+## What's new in v2.2.0
+
+- **A free 14-day trial** of the full app. Without a license key, Heroic Elite runs as a trial, and Elite-only features show a small lock. After 14 days your projects stay readable and exportable; enter a key at any time to unlock everything at once, with no reinstall.
 
 ## What's new in v2.1.0
 
@@ -86,7 +90,7 @@ Heroic Elite works offline and stores projects, settings and backups on your own
 - Microsoft Edge WebView2 Runtime (included with Windows 11 and most Windows 10 PCs)
 - 4 GB RAM minimum, 8 GB recommended (16 GB for local AI)
 - About 300 MB of disk space, plus about 5 GB for the optional local AI model
-- An internet connection once, to activate your license key
+- An internet connection once, to activate your license key (the trial needs none)
 
 ## Buy
 
