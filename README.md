@@ -16,6 +16,17 @@ Not sure yet? **[Try Heroic Elite free for 14 days](https://jermane8.gumroad.com
 
 ---
 
+## What's new in v2.3.0
+
+- **Glass themes are back**: seven themes in the frosted-glass look of Heroic 2.0, with see-through cards, a soft glow and gradient accents. Light and Parchment are light; Dark Neon, Space Grey, Pink & Purple, Emerald Night and Sunset Ember are dark. They sit next to the nine solid themes, so there are **16 interface themes** to choose from.
+- **Calmer light paper on dark themes**: White, Sepia and Rose paper now show as a soft off-white when you use a dark theme. A pure-white page next to a dark interface made many screens, especially TVs and monitors with dynamic contrast, turn their backlight up. Your exports are unchanged.
+- Updating keeps the theme you already use.
+
+<p align="center">
+  <img src="images/glass-dark-neon.jpg" alt="Heroic Elite in the Dark Neon glass theme" width="49%">
+  <img src="images/glass-light.jpg" alt="Heroic Elite in the Light glass theme" width="49%">
+</p>
+
 ## What's new in v2.2.0
 
 - **A free 14-day trial** of the full app. Without a license key, Heroic Elite runs as a trial, and Elite-only features show a small lock. After 14 days your projects stay readable and exportable; enter a key at any time to unlock everything at once, with no reinstall.
@@ -40,6 +51,7 @@ Not sure yet? **[Try Heroic Elite free for 14 days](https://jermane8.gumroad.com
 - Import .docx, .txt, .md, .rtf and .odt files, several at once
 - Customisable keyboard shortcuts for more than 40 commands
 - Zen mode and full-screen Focus mode
+- 16 interface themes, solid or frosted glass, light or dark, with eight paper colours for the page
 - Automatic backups on save and before risky operations
 
 ## Design and export
